@@ -1,0 +1,60 @@
+{
+        id: 1,
+        name: 'Catalin Talent',
+        username: 'Catalynn',
+        email: 'catalin@hehe.com'
+    },
+    {
+        id: 2,
+        name: 'Mesterul Manole',
+        username: 'MeshTheru',
+        email: 'meshmanole@hehe.com'
+    },
+    {
+        id: 3,
+        name: 'Ciocan Ion',
+        username: 'Ciokn',
+        email: 'ionciokn@hehe.com'
+    },
+    {
+        id: 4,
+        name: 'Kwame Lesedi Mbango',
+        username: 'Kwame Lesedi',
+        email: 'mbangokwame@hehe.com'
+    },
+    {
+        id: 5,
+        name: 'Chukuemeka Mbango',
+        username: 'Chukuemeka',
+        email: 'chukuemekambango@hehe.com'
+    },
+    {
+        id: 6,
+        name: 'Tejghel Nigel',
+        username: 'Tejel',
+        email: 'tejelnigel@hehe.com'
+    },
+    {
+        id: 7,
+        name: 'Margarett Parcalab',
+        username: 'CandySeller',
+        email: 'candygetmargarett@hehe.com'
+    },
+    {
+        id: 8,
+        name: 'Patricia Lebsack',
+        username: 'Phospholipids',
+        email: 'phospholebsack@hehe.com'
+    },
+    {
+        id: 9,
+        name: 'Ervin Darwin',
+        username: 'Molexin',
+        email: 'molervin@hehe.com'
+    },
+    {
+        id: 10,
+        name: 'George Washed Up',
+        username: 'RightPedala',
+        email: 'pedalgeorge@hehe.com'
+    }
